@@ -15,9 +15,6 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text("This is my first SwiftUI app")
-            Button("Click me") {
-                
-            }
         }
         .padding()
     }
