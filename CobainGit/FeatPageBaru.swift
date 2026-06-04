@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct feat_pagebaru: View {
+struct FeatPageBaru : View {
     var body: some View {
         Text("Hello, Dinda Putri Pamungkas!")
     }
 }
 
 #Preview {
-    feat_pagebaru()
+    FeatPageBaru()
 }
