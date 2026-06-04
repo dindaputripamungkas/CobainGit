@@ -14,6 +14,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Text("This is my first SwiftUI app")
+            Button("Click me") {
+                
+            }
         }
         .padding()
     }
